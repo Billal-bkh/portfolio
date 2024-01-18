@@ -19,7 +19,7 @@ export default function Home() {
         <div className="w-full xl:w-1/2 h-full flex flex-col justify-start items-start gap-2 px-12 md:px-32">
           <p className="xl:text-4xl text-xl font-bold">Hi!</p>
           <p className="xl:text-4xl text-xl font-bold">
-            I'm{' '}
+            {"I'm"}{' '}
             <span className="bg-gradient-to-r from-[#FF3F3F] to-[#EBA352] bg-clip-text text-transparent">
               Billel Bekhouche
             </span>
